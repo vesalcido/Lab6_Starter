@@ -1,1 +1,2 @@
-# Lab 7 - Starter
+# Lab 6 - Starter
+Github Pages Link: https://vesalcido.github.io/Lab6_Starter/
